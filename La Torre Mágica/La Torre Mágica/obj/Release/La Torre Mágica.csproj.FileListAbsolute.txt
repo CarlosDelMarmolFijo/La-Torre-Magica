@@ -1,0 +1,40 @@
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\La Torre Mágica.exe.config
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\La Torre Mágica.exe
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\La Torre Mágica.pdb
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\Firebase.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\LiteDB.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\Newtonsoft.Json.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Buffers.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Reactive.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\Firebase.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\LiteDB.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\Newtonsoft.Json.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Buffers.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Reactive.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.csproj.AssemblyReference.cache
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\ActualizarCliente.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\AplicarDescuento.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\Borrar.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\BuscarCliente.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\ActualizarCliente.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\AplicarDescuento.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\Añadir.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\Borrar.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\BuscarCliente.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\MainWindow.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\App.g.cs
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica_MarkupCompile.cache
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica_MarkupCompile.lref
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\Añadir.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\MainWindow.baml
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.g.resources
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La_Torre_Mágica.Properties.Resources.resources
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.csproj.GenerateResource.cache
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre.166FDA6E.Up2Date
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.exe
+C:\Users\Usuario\OneDrive\Escritorio\La Torre Mágica\La Torre Mágica\obj\Release\La Torre Mágica.pdb

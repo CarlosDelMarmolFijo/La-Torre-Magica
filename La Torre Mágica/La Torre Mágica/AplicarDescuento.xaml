@@ -1,0 +1,97 @@
+﻿<Window x:Class="La_Torre_Mágica.AplicarDescuento"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Aplicación de Descuento" 
+        Height="500" 
+        Width="500"
+        WindowStartupLocation="CenterScreen"
+        ResizeMode="NoResize"
+        Icon="images/menu/descuento.ico">
+
+    <!-- Aplica el degradado al fondo de la ventana -->
+    <Window.Background>
+        <LinearGradientBrush StartPoint="0,0" EndPoint="1,1">
+            <GradientStop Color="LightBlue" Offset="0.0" />
+            <GradientStop Color="White" Offset="1.0" />
+        </LinearGradientBrush>
+    </Window.Background>
+    
+    <Grid>
+        <StackPanel Margin="10" VerticalAlignment="Center">
+            <!-- Título de la ventana -->
+            <TextBlock Text="Aplicación de Descuento" 
+               FontSize="16" 
+               FontWeight="Bold" 
+               Margin="0,0,0,20" 
+               HorizontalAlignment="Center"/>
+
+            <!-- Campo para ingresar el nombre del cliente -->
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Nombre y Apellidos del Cliente" 
+                   FontWeight="SemiBold"
+                   Margin="55,0,0,5"/>
+                <TextBox x:Name="TextBoxNombreCliente" 
+                 Width="350" 
+                 Padding="8" 
+                 Margin="0,0,0,10" 
+                 BorderBrush="#B0B0B0" 
+                 BorderThickness="1"/>
+            </StackPanel>
+
+            <!-- Botón para cargar el descuento disponible -->
+            <Button Content="Consultar Descuento" 
+            Click="ButtonConsultarDescuento_Click" 
+            Width="150" 
+            Height="35"
+            Background="#4CAF50" 
+            Foreground="White"
+            BorderBrush="#4CAF50"
+            BorderThickness="1" 
+            Margin="0,0,0,20"/>
+
+            <!-- Campo para mostrar el descuento total disponible -->
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Descuento Disponible" 
+                   FontWeight="SemiBold"
+                   Margin="55,0,0,5"/>
+                <TextBox x:Name="TextBoxDescuentoDisponible" 
+                 Width="350" 
+                 Padding="8" 
+                 Margin="0,0,0,10" 
+                 IsReadOnly="True"
+                 Background="White"
+                 BorderBrush="#B0B0B0" 
+                 BorderThickness="1"/>
+            </StackPanel>
+
+            <!-- Campo para ingresar el descuento a usar -->
+            <StackPanel Margin="0,0,0,10">
+                <TextBlock Text="Descuento a Usar" 
+                   FontWeight="SemiBold"
+                   Margin="55,0,0,5"/>
+                <TextBox x:Name="TextBoxDescuentoUsar" 
+                 Width="350" 
+                 Padding="8" 
+                 Margin="0,0,0,10" 
+                 BorderBrush="#B0B0B0" 
+                 BorderThickness="1"/>
+            </StackPanel>
+
+            <!-- Opción para usar todo el descuento -->
+            <CheckBox x:Name="CheckBoxUsarTodo" 
+              Content="Usar Todo el Descuento" 
+              Margin="55,0,235,20" 
+              FontWeight="SemiBold"/>
+
+            <!-- Botón para confirmar la transacción -->
+            <Button Content="Confirmar" 
+            Click="ButtonConfirmar_Click" 
+            Width="150" 
+            Height="35"
+            Background="#2196F3" 
+            Foreground="White"
+            BorderBrush="#2196F3"
+            BorderThickness="1"/>
+        </StackPanel>
+    </Grid>
+</Window>

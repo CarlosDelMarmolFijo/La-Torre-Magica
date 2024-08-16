@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|c:\\users\\usuario\\onedrive\\escritorio\\la torre m\u00E1gica\\la torre m\u00E1gica\\a\u00F1adir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|solutionrelative:la torre m\u00E1gica\\a\u00F1adir.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\la torre m\u00E1gica\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|solutionrelative:la torre m\u00E1gica\\borrar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\la torre m\u00E1gica\\buscarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|solutionrelative:la torre m\u00E1gica\\buscarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\la torre m\u00E1gica\\actualizarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|solutionrelative:la torre m\u00E1gica\\actualizarcliente.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\la torre m\u00E1gica\\aplicardescuento.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B6C807-A5A6-4434-A49F-DAD8F310824F}|La Torre M\u00E1gica\\La Torre M\u00E1gica.csproj|solutionrelative:la torre m\u00E1gica\\aplicardescuento.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "A\u00F1adir.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\A\u00F1adir.xaml.cs",
+              "RelativeDocumentMoniker": "La Torre M\u00E1gica\\A\u00F1adir.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\A\u00F1adir.xaml.cs",
+              "RelativeToolTip": "La Torre M\u00E1gica\\A\u00F1adir.xaml.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAIwEUAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:56:46.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Borrar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\Borrar.xaml.cs",
+              "RelativeDocumentMoniker": "La Torre M\u00E1gica\\Borrar.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\Borrar.xaml.cs",
+              "RelativeToolTip": "La Torre M\u00E1gica\\Borrar.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA+wBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T22:32:48.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AplicarDescuento.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\AplicarDescuento.xaml.cs",
+              "RelativeDocumentMoniker": "La Torre M\u00E1gica\\AplicarDescuento.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\AplicarDescuento.xaml.cs",
+              "RelativeToolTip": "La Torre M\u00E1gica\\AplicarDescuento.xaml.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswK4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:56:55.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BuscarCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\BuscarCliente.xaml.cs",
+              "RelativeDocumentMoniker": "La Torre M\u00E1gica\\BuscarCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\BuscarCliente.xaml.cs",
+              "RelativeToolTip": "La Torre M\u00E1gica\\BuscarCliente.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAkwCIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:56:52.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActualizarCliente.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\ActualizarCliente.xaml.cs",
+              "RelativeDocumentMoniker": "La Torre M\u00E1gica\\ActualizarCliente.xaml.cs",
+              "ToolTip": "C:\\Users\\Usuario\\OneDrive\\Escritorio\\La Torre M\u00E1gica\\La Torre M\u00E1gica\\ActualizarCliente.xaml.cs",
+              "RelativeToolTip": "La Torre M\u00E1gica\\ActualizarCliente.xaml.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAIwDgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:56:50.239Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
